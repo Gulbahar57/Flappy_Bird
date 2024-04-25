@@ -1,0 +1,9 @@
+body {
+font-family:'Courier New', Courier, monospace;
+text-align: center;
+}
+
+#board { /*ici je lie mon board canvas avec le hashtag ce qui fait que je vais mettre une couleur en haut de mon ciel*/
+    /* background-color: rgb(245, 181, 192); */
+    background-image: url("./backgroundfp.png"); /* ici j'ai lié le background à mon image avec l'url. */
+}
