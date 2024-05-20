@@ -6,6 +6,7 @@ Dans ce jeu, vous contrôlez un oiseau que vous devez faire voler à travers des
 
 
 𝐂𝐚𝐩𝐭𝐮𝐫𝐞𝐬 𝐝'𝐞́𝐜𝐫𝐚𝐧
+
 https://github.com/Gulbahar57/Flappy_Bird/assets/158152207/933a4977-d096-43b9-bf9f-79f1f20d4287
 
 
