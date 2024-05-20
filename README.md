@@ -9,18 +9,21 @@ https://github.com/Gulbahar57/Flappy_Bird/assets/158152207/933a4977-d096-43b9-bf
 
 
 Langages utilisés
+
 Ce jeu a été développé en utilisant les langages suivants :
 - JavaScript,
 - HTML,
 - CSS.
   
 Instructions du jeu
+
 Pour jouer à Flappy Bird :
 - Cliquez sur la barre d'espace, appuyez sur la touche X ou utilisez la touche de la flèche vers le haut pour faire sauter l'oiseau,
 - Évitez de toucher les tuyaux pour survivre le plus longtemps possible,
 - Il n'y a pas de limite de niveau, donc essayez d'obtenir le meilleur score possible !
 
 🛠️ Installation
+
 Le jeu est disponible sur Vercel, mais pour une meilleure performance, nous vous recommandons d'installer le jeu depuis notre dépôt GitHub. Clonez le dépôt et ouvrez le fichier index.html dans votre navigateur pour jouer.
 
 Crédits
